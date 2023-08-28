@@ -18,4 +18,4 @@ RUN go build .
 
 EXPOSE 3000
 
-ENTRYPOINT ["./dreamFun"]
+ENTRYPOINT ["./dream"]
